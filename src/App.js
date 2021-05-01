@@ -12,12 +12,12 @@ import { animation } from './profile'
 function App() {
 
   useEffect(() => {
-      AOS.init({
-        duration: animation.duration,
-        once: animation.once,
-        disable: !animation.animate
-      })
-// eslint-disable-next-line
+    AOS.init({
+      duration: animation.duration,
+      once: animation.once,
+      disable: !animation.animate
+    })
+    // eslint-disable-next-line
   }, [])
 
   return (

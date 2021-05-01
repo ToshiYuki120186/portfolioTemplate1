@@ -9,7 +9,7 @@ const animation = {
 }
 // Change your display name on tha landing display
 const header = {
-    name: "a Human",
+    name: "Shen Weiying",
 }
 const background = {
     // Options: Snow or Particle
@@ -19,7 +19,7 @@ const background = {
 // To update your image, go to './styles/images.css'
 const section2title = "About Me"
 const about = {
-    paragraph: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae suscipit tellus mauris a diam. Orci phasellus egestas tellus rutrum tellus pellentesque eu. Dapibus ultrices in iaculis nunc. Pretium nibh ipsum consequat nisl vel. Consequat ac felis donec et odio. Orci nulla pellentesque dignissim enim sit amet. Scelerisque eu ultrices vitae auctor eu augue ut lectus arcu."
+    paragraph: "Experienced and Creative full-stack developer with 5+ years of experience in website development providing high-impact web solutions for diverse industry organizations. With an excellent reputation for resolving problems and improving customer satisfaction, I am aimed to be an enthusiastic web developer eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. Based on the clear understandings and fundamental knowledge in website relevant stacks, I have a great skill in converting client's desires and ideas into reality aiming at high revenues and great user experiences."
 }
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
@@ -82,9 +82,9 @@ const projects = [
     {
         // Add image in './styles/images.css' in #project1
         id: "project1",
-        name: "Project 1",
+        name: "DriverDispatcher",
         skills: ["HTML, CSS, JS"],
-        url: "https://github.com/kaustubhai"
+        url: "https://ddispatcher.com/"
     },
     {
         // Add image in './styles/images.css' in #project2
@@ -151,18 +151,15 @@ const miscellaneous = [
 // If you hacve the link already, paste it in the contactUrl below
 const section5Title = "Get in Touch"
 const contact = {
-    pitch: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae.",
-    copyright: "Kaustubh Mishra",
-    contactUrl: ''
+    pitch: "If you have a comment or a question not addressed above, please feel free to email me. I will respond to you as quickly as possible personally. You can also find me on LinkedIn and Github",
+    copyright: "Shen Weiying",
+    contactUrl: 'https://formspree.io/f/xvodzrdz'
 }
 // Paste your respective social media links. You can omit any if you dont have it
 // Upload your resume in your drive, get the shaareable link and paste it in the resume section
 const social = {
-    github: 'https://github.com',
-    facebook: 'https://facebook.com',
-    linkedin: 'https://linkedin.com',
-    instagram: 'https://instagram.com',
-    resume: 'https://novoresume.com/'
+    github: 'https://github.com/ToshiYuki120186',
+    linkedin: 'https://www.linkedin.com/in/shen-weiying-944b76176/',
 }
 // Dont change anything here
 export { animation, header, background, about, skillsBar, projects, miscellaneous, contact, social, section2title, section3Title, section4Title, section5Title }
