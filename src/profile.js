@@ -82,44 +82,37 @@ const projects = [
     {
         // Add image in './styles/images.css' in #project1
         id: "project1",
-        name: "DriverDispatcher",
+        name: "WealthFront - Banking, investing, borrowing",
         skills: ["HTML, CSS, JS"],
-        url: "https://ddispatcher.com/"
+        url: "https://www.wealthfront.com/"
     },
     {
         // Add image in './styles/images.css' in #project2
         id: "project2",
-        name: "Project 2",
+        name: "Ecwid - Shopping, Selling",
         skills: ["HTML, CSS, JS"],
-        url: "https://github.com/kaustubhai"
+        url: "https://www.ecwid.com/"
     },
     {
         // Add image in './styles/images.css' in #project3
         id: "project3",
-        name: "Project 3",
-        skills: ["HTML, CSS, JS"],
-        url: "https://github.com/kaustubhai"
+        name: "DriverDispatcher - Local Delivery",
+        skills: ["HTML, CSS, PHP"],
+        url: "https://ddispatcher.com/"
     },
     {
         // Add image in './styles/images.css' in #project4
         id: "project4",
-        name: "Project 4",
+        name: "HotelsByDay - Booking",
         skills: ["HTML, CSS, JS"],
-        url: "https://github.com/kaustubhai"
+        url: "https://www.hotelsbyday.com/en"
     },
     {
         // Add image in './styles/images.css' in #project5
         id: "project5",
-        name: "Project 5",
+        name: "CrossWater",
         skills: ["HTML, CSS, JS"],
-        url: "https://github.com/kaustubhai"
-    },
-    {
-        // Add image in './styles/images.css' in #project6
-        id: "project6",
-        name: "Project 6",
-        skills: ["HTML, CSS, JS"],
-        url: "https://github.com/kaustubhai"
+        url: "https://thecrosswater.com/"
     },
 ]
 // Edit your Miscellaneous Activities, its name and the url. 
@@ -130,19 +123,19 @@ const miscellaneous = [
     {
         // Add image in './styles/images.css' in #misc1
         id: "misc1",
-        name: "Miscellaneous 1",
+        name: "EZtime - Attendance Management - iOS & Android Mobile app",
         url: "https://github.com/kaustubhai"
     },
     {
         // Add image in './styles/images.css' in #misc2        
         id: "misc2",
-        name: "Miscellaneous 2",
+        name: "6 Pack Promise - Flutter Fitness app",
         url: "https://github.com/kaustubhai"
     },
     {
         // Add image in './styles/images.css' in #misc3
         id: "misc3",
-        name: "Miscellaneous 3",
+        name: "GeckoIPTV player - iOS/TVOS/MacOS app",
         url: "https://github.com/kaustubhai"
     },
 ]
