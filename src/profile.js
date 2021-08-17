@@ -124,19 +124,19 @@ const miscellaneous = [
         // Add image in './styles/images.css' in #misc1
         id: "misc1",
         name: "EZtime - Attendance Management - iOS & Android Mobile app",
-        url: "https://github.com/kaustubhai"
+        url: "https://apps.apple.com/il/app/eztime-%D7%90%D7%99%D7%96%D7%99-%D7%98%D7%99%D7%99%D7%9D-%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA-%D7%A0%D7%95%D7%9B%D7%97%D7%95%D7%AA/id1330990044"
     },
     {
         // Add image in './styles/images.css' in #misc2        
         id: "misc2",
         name: "6 Pack Promise - Flutter Fitness app",
-        url: "https://github.com/kaustubhai"
+        url: "https://apps.apple.com/us/app/6-pack-promise-ultimate-abs/id633815621"
     },
     {
         // Add image in './styles/images.css' in #misc3
         id: "misc3",
         name: "GeckoIPTV player - iOS/TVOS/MacOS app",
-        url: "https://github.com/kaustubhai"
+        url: "https://apps.apple.com/us/app/gecko-iptv-player/id1541810894"
     },
 ]
 // Contact form text, and Jotforms link

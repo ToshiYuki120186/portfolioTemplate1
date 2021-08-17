@@ -32,10 +32,10 @@ const Header = () => {
             <div className="Header">
                 <h1>{`I'm ${header.name}`}</h1>
                 <p className="line-1 anim-typewriter">and this is my portfolio... </p>
-                <label className="switch">
+                {/* <label className="switch">
                     <input id="mode-switch" onClick={toggleDarkMode} type="checkbox" />
                     <span className="slider round"></span>
-                </label>
+                </label> */}
                 <HeaderButton />
             </div>
             <img id="not-dark" onClick={scrollTo} alt="Contact Me" title="Contact Me" className="gtp" src="contactme.png"></img>
